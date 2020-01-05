@@ -11,5 +11,5 @@ The tip calculator is built with tkinter and is my first project. You can use th
 ## Feedback
 For feedback, please feel free to contact me on
 - Matrix: @exeler0n:matrix.dapor.net
-- Mastodon: @eXeler0n@troet.cafe
-- Twitter: @eXeler0n
+- Mastodon: [@eXeler0n@troet.cafe](https://troet.cafe/@eXeler0n)
+- Twitter: [@eXeler0n](https://twitter.com/eXeler0n)
